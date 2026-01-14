@@ -94,19 +94,7 @@ flutter run
 --- 
 ## 📱 App Screenshots
 
-**Login Screen**  
-![Login](assets/screenshots/login.png)
-
-**Dashboard Screen**  
-![Dashboard](assets/screenshots/dashboard.png)
-![Dashboard](assets/screenshots/dashboardd.png)
-
-**Create/Update Screen**  
-![CreateUpdate](assets/screenshots/createitemscreen.png)
-
-**Login Screen**  
-![LoginScreen](assets/screenshots/loginscreen.png)
-
+Want to see PulseHub in action? All screenshots are chilling in `assets/screenshots/` — check them out! 😎
 
 ---
 ## 📦 APK Download
