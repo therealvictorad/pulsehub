@@ -92,6 +92,16 @@ flutter pub get
 flutter run
 ```
 ---
+## 📦 APK Download
+
+You can download and test the app directly on an Android device:
+
+👉 **Download APK:**  
+https://github.com/therealvictorad/pulsehub/releases/download/v1.0.0/app-release.apk
+
+> ⚠️ Note: You may need to enable *“Install from unknown sources”* on your Android device.
+
+---
 👨‍💻 Author
 
 Victor Adesina – Flutter Developer
