@@ -5,6 +5,8 @@
 PulseHub is a Flutter mobile app built for a mid-level developer assessment. It demonstrates real-world Flutter skills, including authentication, API-driven dashboards, details view, item creation/updating, dark/light mode, and clean architecture with Riverpod state management.
 
 ---
+## Role: Mobile App Developer (Flutter – Mid Level)
+---
 
 ## 🚀 Features
 
