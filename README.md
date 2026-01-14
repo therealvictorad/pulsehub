@@ -32,8 +32,7 @@ PulseHub is a Flutter mobile app built for a mid-level developer assessment. It 
 ---
 ## Architecture & State Management
 
-- Project structure:
-lib/
+* Project structure: lib/
  - models/ – data models for user & items
  - services/ – Riverpod providers for auth, items, theme
  - providers/ – UI screens: login, dashboard, details, create/update
